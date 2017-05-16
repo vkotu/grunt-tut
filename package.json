@@ -1,0 +1,29 @@
+{
+  "name": "gruntproject",
+  "version": "1.0.0",
+  "description": "grunt-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkotu/grunt-tut.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "kotu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vkotu/grunt-tut/issues"
+  },
+  "homepage": "https://github.com/vkotu/grunt-tut#readme",
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
